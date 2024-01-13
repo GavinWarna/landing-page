@@ -1,0 +1,19 @@
+.top{
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    display: flex;
+    align-items:center;
+}
