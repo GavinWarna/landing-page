@@ -120,3 +120,21 @@ body{
     font-weight: bold;
     border-radius:10px;
 }
+
+.midTwo {
+    display: flex;
+    background-color: #E5E7EB;
+    flex-direction: column;
+    padding: 10% 20%;
+}
+.quote {
+    font-weight: 1;
+    color: darkslategray;
+    font-style: italic;
+    font-size: 24px
+}
+.name {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 600;
+}
