@@ -93,6 +93,8 @@ body{
     border-color: #3882F6;
     border-style: solid;
     margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .img {
@@ -107,8 +109,9 @@ body{
     padding-top: 50px;
     padding-bottom: 75px;
     width: 100%;
-    justify-content: space-around;
+    justify-content: center;
 }
+
 
 #buttonOne {
     background-color: #3882F6;
